@@ -1,1 +1,1 @@
-web: python main.py
+web: python sunesty-bot/main.py
